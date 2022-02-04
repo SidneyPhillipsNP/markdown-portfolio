@@ -13,4 +13,5 @@ layout: default
 {% include 03-links.md %}
 
 [Google](www.google.com)
-[Bing] (www.bing.com)
+
+[Bing](www.bing.com)
